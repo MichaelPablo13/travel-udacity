@@ -9,6 +9,4 @@ index.html - The Index document for the website.
 /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
 /css - CSS files for the website.
 
-More evidence can be found on submission folder
-The cloud front endpoint
-d21gzar13revl0.cloudfront.net
+d21gzar13revl0.cloudfront.net/index.html
